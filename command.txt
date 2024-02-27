@@ -1,0 +1,1 @@
+gcc fcheck.c -o fcheck -Wall -Werror -O
